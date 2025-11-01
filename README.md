@@ -25,8 +25,7 @@ Due to file size limitations, the `.fig` file is hosted externally.
 ---
 
 ## 🎨 Design Preview
-![Design Screenshot](\<img width="1105" height="441" alt="ticket app design preview" src="https://github.com/user-attachments/assets/4fe9bb09-4264-40c6-9927-9847b4c36207" />
-)
+![Design Screenshot](./image.png)
 ---
 
 
